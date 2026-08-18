@@ -55,12 +55,12 @@ Router subinterfaces:
 
 ## 🧪 Connectivity Testing
 
-- [x] PC1 → PC2
-- [x] PC1 → PC3
-- [x] PC1 → PC4
-- [x] PC1 → Server
-- [x] PC1 → Router
-- [x] PC3 → Server
+- [ ] PC1 → PC2
+- [] PC1 → PC3
+- [] PC1 → PC4
+- [] PC1 → Server
+- [] PC1 → Router
+- [] PC3 → Server
 
 ## 📚 What I Learned
 
