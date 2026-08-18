@@ -13,7 +13,7 @@ Build a small office network where:
 
 ## 🖥️ Network Topology
 
-
+![Network Topology](topology.png)
 
 ## 🔧 Technologies Used
 
@@ -55,12 +55,12 @@ Router subinterfaces:
 
 ## 🧪 Connectivity Testing
 
-- [OK] PC1 → PC2
-- [OK] PC1 → PC3
-- [OK] PC1 → PC4
-- [OK] PC1 → Server
-- [OK] PC1 → Router
-- [OK] PC3 → Server
+- [x] PC1 → PC2
+- [x] PC1 → PC3
+- [x] PC1 → PC4
+- [x] PC1 → Server
+- [x] PC1 → Router
+- [x] PC3 → Server
 
 ## 📚 What I Learned
 
